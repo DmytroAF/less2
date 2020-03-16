@@ -9,6 +9,7 @@ public class Main {
         char c = '*';
         System.out.println(c);
         char c1 = 51;
+        //азанятие 3
         System.out.println(c1);
         int i = 259;
         byte b = (byte) i;//потеря точности, из 259 получилось 3
