@@ -10,6 +10,9 @@ public class Main {
         System.out.println(c);
         char c1 = 51;
         System.out.println(c1);
+        int i = 259;
+        byte b = (byte) i;//потеря точности, из 259 получилось 3
+        System.out.println(b);
     }
 
 }
